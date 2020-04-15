@@ -1,2 +1,2 @@
 # Accompany-Head-
-It is a bot deployed with google assistant.
+It is currently working in google assistant.
