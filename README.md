@@ -1,2 +1,2 @@
 # Accompany-Head-
-It is currently working in google assistant.
+A bot working in google assistant.
